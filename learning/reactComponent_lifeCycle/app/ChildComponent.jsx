@@ -1,6 +1,7 @@
 import React from 'react';
 
 class ChildComponent extends React.Component {
+	
 
     componentWillMount() {
         console.log('Component WILL MOUNT!')
